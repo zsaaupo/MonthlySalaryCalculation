@@ -20,6 +20,17 @@ This is a SQL project for calculating the monthly salary for every employee of a
             - Employees will receive a 5% transport allowance based on the basic salary.
             - A 10% provisional fund deduction from the basic salary will be applied.
             - Net salary = basic salary + transport allowance - provisional fund deduction.
+        
+## SQL Topics
+
+**Logical:**
+* WHILE Loop
+* IF-ELSE Statements
+* Variables
+
+**Advanced:**
+* Stored Procedures
+* Cursors
 
 ## Demo Data
 **Departments**
